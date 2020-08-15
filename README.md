@@ -30,6 +30,8 @@ php artisan serve
 ***
 ### blog
 
+https://note.com/knaka0209/n/nba5ebb9f3b7a
+
 ***
 
 
